@@ -1,6 +1,6 @@
 # BLACK1234
 
-get clone https://github.com/Blackhackerx/BLACK1234/edit/main/README.md
+get clone https://github.com/Blackhackerx/BLACK1234
 
 cd BLACK1234
 
