@@ -1,7 +1,7 @@
-# BLACK1234
+# BLACK12
 
-get clone https://github.com/Blackhackerx/BLACK1234
+get clone https://github.com/Blackhackerx/BLACK12
 
-cd BLACK1234
+cd BLACK12
 
 python BLACKV4.py
